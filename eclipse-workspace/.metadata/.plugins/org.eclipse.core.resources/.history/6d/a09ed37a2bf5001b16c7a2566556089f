@@ -1,0 +1,40 @@
+package turma29;
+import java.util.Scanner;
+public class RepeticaoWhile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int numero, contPar=0, somaImpar=0;
+		
+		Scanner leia = new Scanner(System.in);
+		
+		System.out.println("\n Digite um número: ");
+		numero= leia.nextInt();
+		
+		while (numero!=0)
+		{
+			if(numero % 2== 0) 
+			{
+				contpar++;
+			}
+			else
+			{
+				somaimpar+=
+			}
+		
+		
+		
+		
+		
+		
+		}
+		
+			
+			
+			
+			
+			
+	}
+
+}

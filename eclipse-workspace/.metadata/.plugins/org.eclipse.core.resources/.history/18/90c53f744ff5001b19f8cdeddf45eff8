@@ -1,0 +1,25 @@
+package turma29;
+
+import java.util.Scanner;
+
+public class ExerRepeticao4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int numero, soma=0;
+				
+		 Scanner leia = new Scanner(System.in);
+		
+		 System.out.println("\n Entre com a idade: ");
+		 numero = leia.nextInt();
+		
+		do {
+		soma = soma + numero;	
+			
+		}
+		
+		
+	}
+
+}
